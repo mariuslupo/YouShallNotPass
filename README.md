@@ -15,3 +15,9 @@ Installation de php : OK
 Installation de mysql : OK
 Installation de nginx : Ok
 COnfiguration nginx : moyen OK
+
+05/11/2020
+
+Configuration nginx : OK
+Importation de la base :  en cours 
+Configuration firewall : Ok 
