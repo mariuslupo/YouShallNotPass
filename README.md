@@ -25,5 +25,5 @@ Configuration firewall : Ok
 06/11/2020
 
 nginx accessible : OK
-Importation de la base :  ok 
-affichage data.php : ok
+Importation de la base : OK 
+affichage data.php : OK
