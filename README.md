@@ -26,4 +26,4 @@ Configuration firewall : Ok
 
 nginx accessible : OK
 Importation de la base :  ok 
-affichage data.php : en cours
+affichage data.php : ok
