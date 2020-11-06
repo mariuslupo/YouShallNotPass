@@ -21,3 +21,9 @@ COnfiguration nginx : moyen OK
 Configuration nginx : OK
 Importation de la base :  en cours 
 Configuration firewall : Ok 
+
+06/11/2020
+
+nginx accessible : OK
+Importation de la base :  ok 
+affichage data.php : en cours
