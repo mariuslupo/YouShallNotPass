@@ -32,3 +32,8 @@ affichage data.php : OK
 
 powerpoint de présentation projet : 80% OK
 recherche pour la task network security 
+
+08/11/2020
+
+powerpoint de présentation projet : 90% OK
+recherche pour la task network security 
