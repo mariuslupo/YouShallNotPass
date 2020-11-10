@@ -28,12 +28,12 @@ nginx accessible : OK
 Importation de la base : OK 
 affichage data.php : OK
 
-07/11/2020
+09/11/2020
 
 powerpoint de présentation projet : 80% OK
 recherche pour la task network security 
 
-08/11/2020
+10/11/2020
 
 powerpoint de présentation projet : 90% OK
 recherche pour la task network security 
