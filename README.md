@@ -38,7 +38,11 @@ recherche pour la task network security
 powerpoint de présentation projet : 90% OK
 recherche pour la task network security 
 
-10/12/2020
+12/12/2020
 
 powerpoint de présentation projet : OK
 Follow up + recherche pour la task network security 
+
+13/12/2020
+
+Network security : 80% OK
